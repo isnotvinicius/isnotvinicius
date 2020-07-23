@@ -15,7 +15,7 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 ## Onde me achar? 
 <a> www.linkedin.com/in/isnotvinicius/ </a>
 
-<a> twitter.com/isnotvinicius </a>
+<a> www.twitter.com/isnotvinicius </a>
 
 ## ⚡️ Fun Facts:
 - 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
