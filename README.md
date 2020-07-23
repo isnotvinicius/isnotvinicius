@@ -4,13 +4,13 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 
 🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>Lumen</b>.
 
-<b> 😍 Apaixonado por: <b>
+## 😍 Apaixonado por: 
 - PHP;
 - Videogame;
 - Animes/Mangás;
 - Cubo Mágico;
 - Cachorros;
-- Filmes;
+- Filmes.
 
 ## Onde me achar? 
 - [LinkedIn](www.linkedin.com/in/isnotvinicius/)
