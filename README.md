@@ -16,12 +16,6 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - [LinkedIn](www.linkedin.com/in/isnotvinicius/)
 - [Twitter](www.twitter.com/isnotvinicius)
 
-## ⚡️ Fun Facts:
-- 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
-- 🥋 Já participei de campeonatos de Karate;
-- 🎸 Quando criança eu sonhava em tocar guitarra (talvez esse sonho ainda persista, quem sabe...);
-- ⛩ Gostaria de conhecer o Japão.
-
 ## 🎓 Projetos de estudo:
 - [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
 - [PHP Composer](https://github.com/isnotvinicius/php_composer)
@@ -29,3 +23,9 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - [PHP Doctrine](https://github.com/isnotvinicius/php_doctrine)
 - [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
+
+## ⚡️ Fun Facts:
+- 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
+- 🥋 Já participei de campeonatos de Karate;
+- 🎸 Quando criança eu sonhava em tocar guitarra (talvez esse sonho ainda persista, quem sabe...);
+- ⛩ Gostaria de conhecer o Japão.
