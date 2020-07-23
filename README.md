@@ -5,12 +5,12 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>Lumen</b>.
 
 ## 😍 Apaixonado por: 
-- PHP;
-- Videogame;
-- Animes/Mangás;
-- Cubo Mágico;
-- Cachorros;
-- Filmes.
+- 🖥 PHP;
+- 🕹 Tekken;
+- 📖 Animes/Mangás;
+- 📜 RPG de mesa;
+- 🐶 Cachorros;
+- 📺 Filmes.
 
 ## Onde me achar? 
 - [LinkedIn](www.linkedin.com/in/isnotvinicius/)
@@ -21,3 +21,11 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 🥋 Já participei de campeonatos de Karate;
 - 🎸 Quando criança eu sonhava em tocar guitarra (talvez esse sonho ainda persista, quem sabe...);
 - ⛩ Gostaria de conhecer o Japão.
+
+## 🎓 Projetos de estudo:
+- [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
+- [PHP Composer](https://github.com/isnotvinicius/php_composer)
+- [PHP PDO](https://github.com/isnotvinicius/php_pdo)
+- [PHP Doctrine](https://github.com/isnotvinicius/php_doctrine)
+- [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
+- [PHP Laravel](https://github.com/isnotvinicius/laravel)
