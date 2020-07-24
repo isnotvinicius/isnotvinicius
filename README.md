@@ -8,7 +8,7 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 🖥 PHP;
 - 🕹 Tekken;
 - 📖 Animes/Mangás;
-- 📜 RPG de mesa;
+- 🎲 RPG de mesa;
 - 🐶 Cachorros;
 - 📺 Filmes.
 
@@ -16,6 +16,8 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x"> [LinkedIn](www.linkedin.com/in/isnotvinicius/)
 
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px"> [Twitter](www.twitter.com/isnotvinicius)
+
+<img src="https://image.flaticon.com/icons/svg/732/732200.svg" widht="20px" height="20px"> [E-mail](vinicius.oliveira3301@gmail.com)
 
 ## 🎓 Projetos de estudo:
 - [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
@@ -29,4 +31,4 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
 - 🥋 Já participei de campeonatos de Karate;
 - 🎸 Quando criança eu sonhava em tocar guitarra (talvez esse sonho ainda persista, quem sabe...);
-- ⛩ Gostaria de conhecer o Japão.
+- 🇯🇵 Gostaria de conhecer o Japão.
