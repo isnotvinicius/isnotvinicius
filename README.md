@@ -13,7 +13,7 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 📺 Filmes.
 
 ## Onde me achar? 
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](www.linkedin.com/in/isnotvinicius/)
+<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  <a>www.linkedin.com/in/isnotvinicius/</a>
 
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](www.twitter.com/isnotvinicius)
 
