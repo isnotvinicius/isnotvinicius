@@ -28,5 +28,5 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 ## ⚡️ Fun Facts:
 - 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
 - 🥋 Já participei de campeonatos de Karate;
-- 🎸 Quando criança eu sonhava em tocar guitarra (talvez esse sonho ainda persista, quem sabe...);
+- 🎸 Já tentei aprender a tocar guitarra mas sou um completo fracasso para a música;
 - 🇯🇵 Gostaria de conhecer o Japão.
