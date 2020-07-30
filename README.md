@@ -10,7 +10,7 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 📖 Animes/Mangás;
 - 🎲 RPG de mesa;
 - 🐶 Cachorros;
-- 📺 Filmes.
+- 🎼 Música.
 
 ## Onde me achar? 
 <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](https://www.linkedin.com/in/isnotvinicius/)
@@ -27,6 +27,6 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 
 ## ⚡️ Fun Facts:
 - 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
-- 🥋 Já participei de campeonatos de Karate;
-- 🎸 Já tentei aprender a tocar guitarra mas sou um completo fracasso para a música;
+- 🥇 Já participei de campeonatos de Karate;
+- 🧩 Sei resolver um cubo mágico;
 - 🇯🇵 Gostaria de conhecer o Japão.
