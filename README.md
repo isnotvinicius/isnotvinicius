@@ -2,7 +2,7 @@
 
 Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há 3 anos. Ainda não estou trabalhando, mas você poderia me indicar na sua empresa, ein?!
 
-🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>Lumen</b>.
+🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>APIs</b>.
 
 ## 😍 Apaixonado por: 
 - 🖥 PHP;
