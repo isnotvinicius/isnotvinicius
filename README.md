@@ -5,7 +5,7 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>APIs</b>.
 
 ## 😍 Apaixonado por: 
-- 🖥 PHP;
+- 🐘 PHP;
 - 🕹 Tekken;
 - 📖 Animes/Mangás;
 - 🎲 RPG de mesa;
