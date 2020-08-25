@@ -1,6 +1,6 @@
 # Olá, pessoas! 👋
 
-Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há 3 anos. Atualmente sou desenvolvedor PHP/Laravel Júnior na NineWorphi.
+Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há 3 anos. Atualmente sou desenvolvedor PHP/Larave na NineWorphi.
 
 🌱 Estou estudando <b>PHP</b>, <b>Laravel</b> e <b>APIs</b>.
 
