@@ -1,6 +1,6 @@
 # Olá, pessoas! 👋
 
-Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há 3 anos. Atualmente sou desenvolvedor PHP/Larave na NineWorphi.
+Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos.
 
 🌱 Estou estudando <b>PHP</b> e <b>Laravel</b>.
 
@@ -13,7 +13,6 @@ Meu nome é Vinícius, tenho 19 anos e me aventuro no mundo da programação há
 - 🎼 Música.
 
 ## Onde me achar? 
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](https://www.linkedin.com/in/isnotvinicius/)
 
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](https://www.twitter.com/isnotvinicius)
 
