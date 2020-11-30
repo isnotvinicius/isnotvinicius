@@ -12,10 +12,6 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - 🐶 Cachorros;
 - 🎼 Música.
 
-## Onde me achar? 
-
-<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](https://www.twitter.com/isnotvinicius)
-
 ## 🎓 Projetos de estudo:
 - [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
 - [PHP Composer](https://github.com/isnotvinicius/php_composer)
