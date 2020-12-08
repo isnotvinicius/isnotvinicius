@@ -1,8 +1,8 @@
 # Olá, pessoas! 👋
 
-Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos.
+Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos. Trabalho com PHP e seu framework Laravel.
 
-🌱 Estou estudando <b>PHP</b> e <b>Laravel</b>.
+🌱 Estou estudando <b>SOLID</b> e <b>TDD</b>.
 
 ## 😍 Apaixonado por: 
 - 🐘 PHP;
