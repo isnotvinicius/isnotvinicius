@@ -1,6 +1,6 @@
 # Olá, pessoas! 👋
 
-Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos. Trabalho com PHP e seu framework Laravel.
+Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos. Atualmente trabalho com PHP e seu framework Laravel na empresa NineWorphi.
 
 🌱 Estou estudando <b>S.O.L.I.D</b> e <b>T.D.D</b>.
 
@@ -19,6 +19,11 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - [PHP Doctrine](https://github.com/isnotvinicius/php_doctrine)
 - [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
+
+## 📱 Contatos:
+<img> https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png </img> <a>twiiter.com/isnotvinicius</a>
+
+
 
 ## ⚡️ Fun Facts:
 - 👷🏽‍♂️ Antes de iniciar no mundo da programação eu queria cursar engenharia civil;
