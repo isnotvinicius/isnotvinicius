@@ -21,7 +21,7 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
 
 ## 📱 Contatos:
-<img> https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png </img> <a>twiiter.com/isnotvinicius</a>
+<img> https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png </img> <a>twitter.com/isnotvinicius</a>
 
 
 
