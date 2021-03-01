@@ -12,6 +12,7 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - 🐶 Cachorros;
 - 🎼 Música.
 
+
 ## 🎓 Projetos de estudo:
 - [PHP Orientado a Objetos](https://github.com/isnotvinicius/php_orientado_objetos)
 - [PHP Composer](https://github.com/isnotvinicius/php_composer)
@@ -19,10 +20,11 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - [PHP Doctrine](https://github.com/isnotvinicius/php_doctrine)
 - [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
+- 
 
 ## 📱 Contatos:
-<img> https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png </img> <a>twitter.com/isnotvinicius</a>
-
+<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](www.linkedin.com/in/isnotvinicius/)
+<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](www.twitter.com/isnotvinicius)
 
 
 ## ⚡️ Fun Facts:
