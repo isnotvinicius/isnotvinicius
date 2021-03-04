@@ -1,6 +1,6 @@
 # Olá, pessoas! 👋
 
-Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos. Atualmente trabalho com PHP e seu framework Laravel na empresa NineWorphi.
+Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há 3 anos. Atualmente trabalho com PHP e seu framework Laravel.
 
 🌱 Estou estudando <b>S.O.L.I.D</b> e <b>T.D.D</b>.
 
