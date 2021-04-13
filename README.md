@@ -13,11 +13,9 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - 🎼 Música.
 
 
-## 🎓 Projetos de estudo:
+## 🎓 Principais projetos de estudo:
 - [PHP Orientado a Objetos](https://github.com/isnotvinicius/php_orientado_objetos)
-- [PHP Composer](https://github.com/isnotvinicius/php_composer)
 - [PHP PDO](https://github.com/isnotvinicius/php_pdo)
-- [PHP Doctrine](https://github.com/isnotvinicius/php_doctrine)
 - [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
 - [Filas e Processamento Assíncrono com Laravel](https://github.com/isnotvinicius/laravel-queues)
