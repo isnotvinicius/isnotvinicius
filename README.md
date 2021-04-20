@@ -19,6 +19,7 @@ Meu nome é Vinícius, tenho 20 anos e me aventuro no mundo da programação há
 - [PHP Web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [PHP Laravel](https://github.com/isnotvinicius/laravel)
 - [Filas e Processamento Assíncrono com Laravel](https://github.com/isnotvinicius/laravel-queues)
+- [Testes unitários com PHPUnit](https://github.com/isnotvinicius/php-unit)
 
 
 ## Onde me achar?
