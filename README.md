@@ -2,7 +2,7 @@
 
 My name is Vinicius, I'm 20 years old and I've been coding for about 3 years. Currently I work with PHP and it's framework Laravel.
 
-🌱 I'm studying <b>T.D.D</b> with <b>PHPUnit</b> and <b>PEST</b>.
+🌱 I'm currently studying <b>S.O.L.I.D</b>.
 
 
 ## 😍 Things that I like the most: 
