@@ -21,6 +21,7 @@ My name is Vinicius, I'm 20 years old and I've been coding for about 3 years. Cu
 - [Laravel](https://github.com/isnotvinicius/laravel)
 - [Using queues with Laravel](https://github.com/isnotvinicius/laravel-queues)
 - [Unit tests with PHPUnit](https://github.com/isnotvinicius/php-unit)
+- [Unit tests with PEST](https://github.com/isnotvinicius/pest)
 
 
 ## Where to find me?
