@@ -1,36 +1,36 @@
-# Hello everyone! 👋
+# Olá! 👋
 
-My name is Vinicius, I'm 20 years old and I've been coding for about 3 years. Currently I work with PHP and it's framework Laravel.
+Meu nome é Vinícius, tenho 20 anos e estou no mundo da programação há 3 anos. Atualmente trabalho com a linguagem PHP e seu framework Laravel.
 
-🌱 I'm currently studying <b>S.O.L.I.D</b>.
+🌱 Atualmente estou estudando <b>Javascript</b> e seu framework <b>Vue.js</b>.
 
 
-## 😍 Things that I like the most: 
+## 😍 Coisas que eu mais gosto: 
 - 🐘 PHP;
 - 🕹 Tekken;
-- 📖 Anime/Manga;
-- 🎲 Dungeons & Dragons;
-- 🐶 My dog, her name is Maggie;
-- 🎼 Music.
+- 📖 Anime/Mangá;
+- 🎲 RPG de mesa;
+- 🐶 Meu pet, o nome dela é Maggie;
+- 🎼 Música.
 
 
-## 🎓 My projects:
-- [Object-Oriented PHP](https://github.com/isnotvinicius/php_orientado_objetos)
+## 🎓 Meus projetos:
+- [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
 - [PHP PDO](https://github.com/isnotvinicius/php_pdo)
-- [Web PHP using MVC](https://github.com/isnotvinicius/php_web_mvc)
+- [PHP web com MVC](https://github.com/isnotvinicius/php_web_mvc)
 - [Laravel](https://github.com/isnotvinicius/laravel)
-- [Using queues with Laravel](https://github.com/isnotvinicius/laravel-queues)
-- [Unit tests with PHPUnit](https://github.com/isnotvinicius/php-unit)
-- [Unit tests with PEST](https://github.com/isnotvinicius/pest)
+- [Filas com Laravel](https://github.com/isnotvinicius/laravel-queues)
+- [Testes unitários com PHPUnit](https://github.com/isnotvinicius/php-unit)
+- [Testes unitários com PEST](https://github.com/isnotvinicius/pest)
 
 
-## Where to find me?
+## Onde me encontrar?
 <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](https://www.linkedin.com/in/isnotvinicius/)
 
 <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](https://www.twitter.com/isnotvinicius)
 
-## ⚡️ Fun Facts:
-- 👷🏽‍♂️ Before I started coding I wanted to be a civil engineer;
-- 🥇 I competed in karate tournaments;
-- 🧩 I can solve a rubik's cube;
-- 🇨 My first contact with coding was with C.
+## ⚡️ Curiosidades:
+- 👷🏽‍♂️ Antes de me interessar por progamação eu queria ser engenheiro civil;
+- 🥇 Já competi em torneios de karate;
+- 🧩 Sei resolver um cubo mágico;
+- 🇨 Meu primeiro contato com programção foi com C.
