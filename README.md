@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Vinícius, tenho 20 anos e estou no mundo da programação há 3 anos. Atualmente trabalho com a linguagem PHP e seu framework Laravel.
+Meu nome é Vinícius, tenho 20 anos e estou no mundo da programação há 3 anos. Trabalho com a linguagem PHP e seu framework Laravel.
 
 🌱 Atualmente estou estudando <b>Javascript</b> e seu framework <b>Vue.js</b>.
 
