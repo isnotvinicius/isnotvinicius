@@ -1,36 +1,30 @@
-# Olá! 👋
+# Olá, me chamo Vinícius Oliveira e este é meu perfil 👋
 
-Meu nome é Vinícius, tenho 20 anos e estou no mundo da programação há 3 anos. Trabalho com a linguagem PHP e seu framework Laravel.
+<div>
+  <a href="https://github.com/isnotvinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isnotvinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnotvinicius&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Vini-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="right" alt="Vini-gif" height="150" width="160" src="https://media.giphy.com/media/bK0lJ9rqFidNYww9O5/giphy.gif">
+</div>
+  
+  ##
+  
 
-🌱 Atualmente estou estudando <b>Javascript</b> e seu framework <b>Vue.js</b>.
+<div> 
+    <a href = "mailto:vinicius.oliveira3301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/isnotvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/isnotvinicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/isnotvinicius" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/isnotvinicius" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
 
+</div>
 
-## 😍 Coisas que eu mais gosto: 
-- 🐘 PHP;
-- 🕹 Tekken;
-- 📖 Anime/Mangá;
-- 🎲 RPG de mesa;
-- 🐶 Meu pet, o nome dela é Maggie;
-- 🎼 Música.
-
-
-## 🎓 Meus projetos:
-- [PHP Orientado a objetos](https://github.com/isnotvinicius/php_orientado_objetos)
-- [PHP PDO](https://github.com/isnotvinicius/php_pdo)
-- [PHP web com MVC](https://github.com/isnotvinicius/php_web_mvc)
-- [Laravel](https://github.com/isnotvinicius/laravel)
-- [Filas com Laravel](https://github.com/isnotvinicius/laravel-queues)
-- [Testes unitários com PHPUnit](https://github.com/isnotvinicius/php-unit)
-- [Testes unitários com PEST](https://github.com/isnotvinicius/pest)
-
-
-## Onde me encontrar?
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="20" height="20x">  [LinkedIn](https://www.linkedin.com/in/isnotvinicius/)
-
-<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px" height="20px">  [Twitter](https://www.twitter.com/isnotvinicius)
-
-## ⚡️ Curiosidades:
-- 👷🏽‍♂️ Antes de me interessar por progamação eu queria ser engenheiro civil;
-- 🥇 Já competi em torneios de karate;
-- 🧩 Sei resolver um cubo mágico;
-- 🇨 Meu primeiro contato com programção foi com C.
