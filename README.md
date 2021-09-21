@@ -1,6 +1,6 @@
 # Olá, me chamo Vinícius Oliveira e este é meu perfil 👋
 
-### Abaixo estão listadas minhas linguagens mais usadas e meus projetos de estudo com explicações dos conceitos.
+### Abaixo estão listadas minhas linguagens/ferramentas mais usadas e meus projetos de estudo com explicações dos conceitos.
 
 <div>
   <a href="https://github.com/isnotvinicius">
