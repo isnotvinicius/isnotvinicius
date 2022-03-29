@@ -15,6 +15,7 @@
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Vini-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="right" alt="Vini-gif" height="160" width="170" src="https://media.giphy.com/media/bK0lJ9rqFidNYww9O5/giphy.gif">
 </div>
   
