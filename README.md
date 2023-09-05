@@ -4,7 +4,7 @@
 
 - My main stack is php with the Laravel Framework. I also worked with Zend for an entire year.
 - I work with Svelte as well.
-- Besides that, I know some SQL Database stuff, Docker, Linux... all the stuff you need to be a dev, I guess.
+- Besides that, I know some SQL Database such as Postgres and MySQL, Docker, Linux, HTML, CSS, JS... all the stuff you need to be a full stack developer, I guess.
 - Javascript is boring, even tho it pays my bills xD.
 
 <!-- <div>
