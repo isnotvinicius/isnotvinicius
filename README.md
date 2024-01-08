@@ -34,7 +34,7 @@ Below are listed my job experiences, feel free to ask me anything.
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQE-M-MHfbHl8g/company-logo_200_200/0/1639518044376/diagonalsocial_logo?e=1712793600&v=beta&t=nqwFhJuQE6HvGkZVW_dqzbF28RnAMAHvFiCa-kxRqSE"/>]((https://diagonal.social/))
 
 **Full Stack Developer (Jr)** \
-[**Diagonal**]((https://diagonal.social/)) • Full-time \
+[**Diagonal**](https://diagonal.social/) • Full-time \
 Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`.\
 <br/>
 
