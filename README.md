@@ -1,8 +1,8 @@
 ## 💜 Hello, my name is Vinicius!
 
-I'm a brazilian full stack developer, currently living in São Paulo. Coding since 2017 as a hobby, I decide to take that as my full time job. Graduated from college in 2020 and started working in the same year.  
+I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Coding since 2017 as a hobby, I decided to take that as my full time job. Graduated from college in 2020 and started working in the same year.
 
-🔭 I'm full time FullStack Developer @Diagonal in São Paulo.
+🔭 I'm a full time Full Stack Developer @Diagonal in São Paulo.
 
 🍃 Learning SvelteKit, Rust and fully migrating to Vim as my main editor.
 
@@ -29,7 +29,7 @@ I'm a brazilian full stack developer, currently living in São Paulo. Coding sin
 
 ### Working Experience
 
-Below are listed my job experiencies, feel free to ask me anything.
+Below are listed my job experiences, feel free to ask me anything.
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQE-M-MHfbHl8g/company-logo_200_200/0/1639518044376/diagonalsocial_logo?e=1712793600&v=beta&t=nqwFhJuQE6HvGkZVW_dqzbF28RnAMAHvFiCa-kxRqSE"/>]((https://diagonal.social/))
 
@@ -55,7 +55,7 @@ Projects: [NineControl](https://nineworphi.rds.land/ninecontrol)
 <br/>
 <br/>
 
-Please, find me in [LinkedIn](https://www.linkedin.com/in/isnotvinicius/) for a more detailed description of my experience and education.
+Please, find me on [LinkedIn](https://www.linkedin.com/in/isnotvinicius/) for a more detailed description of my experience and education.
 
 ## ⭐ GitHub Stats
 
