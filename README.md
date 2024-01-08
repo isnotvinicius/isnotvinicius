@@ -1,4 +1,4 @@
-## 💜 Hello, I'm Vinicius!
+## 💜 Hello, my name is Vinicius!
 
 I'm a brazilian full stack developer, currently living in São Paulo. Coding since 2017 as a hobby, I decide to take that as my full time job. Graduated from college in 2020 and started working in the same year.  
 
