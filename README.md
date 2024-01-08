@@ -35,14 +35,14 @@ Below are listed my job experiences, feel free to ask me anything.
 
 **Full Stack Developer (Jr)** \
 [**Diagonal**]((https://diagonal.social/)) • Full-time \
-Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`,\
+Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`.\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/D4D0BAQGvjtvF2-s14w/company-logo_200_200/0/1684331330520/bomvalor_logo?e=1712793600&v=beta&t=SB59GjHmiuY-bvZvCLl0A6IpRVVDhIykfMcNrYL-Jiw"/>](https://bomvalor.com.br/)
 
 **Full Stack Developer (Jr)** \
 [**Bom Valor S.A**](https://bomvalor.com.br/) • Full-time \
-Stack: `PHP`, `Laravel`, `Zend`, `JQuery`, `VueJS`, `NestJS`, `GraphQL`, `PostgreSQL`, `Firebase`, `ElasticSearch`, `Redis`, `Docker`\
+Stack: `PHP`, `Laravel`, `Zend`, `JQuery`, `VueJS`, `NestJS`, `GraphQL`, `PostgreSQL`, `Firebase`, `ElasticSearch`, `Redis`, `Docker`.\
 Projects: [Mercado Bom Valor](https://mercado.bomvalor.com.br/), [Conta Comprova](https://contacomprova.bomvalor.com.br/)
 <br/>
 
@@ -50,7 +50,7 @@ Projects: [Mercado Bom Valor](https://mercado.bomvalor.com.br/), [Conta Comprova
 
 **Back-end Developer (Jr)** \
 [**NineWorphi**](https://nineworphi.rds.land/ninecontrol) • Full-time \
-Stack: `PHP`, `Laravel`, `PostgreSQL` \
+Stack: `PHP`, `Laravel`, `PostgreSQL`. \
 Projects: [NineControl](https://nineworphi.rds.land/ninecontrol)
 <br/>
 <br/>
