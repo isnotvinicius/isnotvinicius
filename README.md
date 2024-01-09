@@ -2,7 +2,7 @@
 
 I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Coding since 2017 as a hobby, I decided to take that as my full time job. Graduated from college in 2020 and started working in the same year.
 
-🔭 I'm a full time Full Stack Developer @Diagonal in São Paulo.
+🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
 
 🍃 Learning SvelteKit, Rust and fully migrating to Vim as my main editor.
 
