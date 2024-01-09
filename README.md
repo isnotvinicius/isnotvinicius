@@ -36,6 +36,7 @@ Below are listed my job experiences, feel free to ask me anything.
 **Full Stack Developer (Jr)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
 Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`.\
+Projects: Semafórico, DTTSA.
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/D4D0BAQGvjtvF2-s14w/company-logo_200_200/0/1684331330520/bomvalor_logo?e=1712793600&v=beta&t=SB59GjHmiuY-bvZvCLl0A6IpRVVDhIykfMcNrYL-Jiw"/>](https://bomvalor.com.br/)
