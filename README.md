@@ -31,7 +31,6 @@ I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Codin
 
 Below are listed my job experiences, feel free to ask me anything.
 
-[<img align="left" height="94px" width="94px" alt="Diagonal" src="https://media.licdn.com/dms/image/C4D0BAQE-M-MHfbHl8g/company-logo_200_200/0/1639518044376/diagonalsocial_logo?e=1712793600&v=beta&t=nqwFhJuQE6HvGkZVW_dqzbF28RnAMAHvFiCa-kxRqSE"/>]((https://diagonal.social/))
 
 **Full Stack Developer (Jr)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
@@ -39,15 +38,11 @@ Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`.\
 Projects: Semafórico, DTTSA.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Bom Valor S.A" src="https://media.licdn.com/dms/image/D4D0BAQGvjtvF2-s14w/company-logo_200_200/0/1684331330520/bomvalor_logo?e=1712793600&v=beta&t=SB59GjHmiuY-bvZvCLl0A6IpRVVDhIykfMcNrYL-Jiw"/>](https://bomvalor.com.br/)
-
 **Full Stack Developer (Jr)** \
 [**Bom Valor S.A**](https://bomvalor.com.br/) • Full-time \
 Stack: `PHP`, `Laravel`, `Zend`, `JQuery`, `VueJS`, `NestJS`, `GraphQL`, `PostgreSQL`, `Firebase`, `ElasticSearch`, `Redis`, `Docker`.\
 Projects: [Mercado Bom Valor](https://mercado.bomvalor.com.br/), [Conta Comprova](https://contacomprova.bomvalor.com.br/)
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/C4D0BAQGWvBbiCVkiQg/company-logo_100_100/0/1630545033071/nineworphi_logo?e=2147483647&v=beta&t=mDd440iajdg1oxYI16mDX4GhtPkIlliCAe4B0ZN0ZCY"/>](https://nineworphi.rds.land/ninecontrol)
 
 **Back-end Developer (Jr)** \
 [**NineWorphi**](https://nineworphi.rds.land/ninecontrol) • Full-time \
