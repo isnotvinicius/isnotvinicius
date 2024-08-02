@@ -4,7 +4,7 @@ I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Codin
 
 🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
 
-🍃 Learning SvelteKit, Rust and fully migrating to Vim as my main editor.
+🍃 Learning SvelteKit and trying to use Nvim as my main editor.
 
 ---
 
