@@ -1,10 +1,10 @@
 ## 💜 Hello, my name is Vinicius!
 
-I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Coding since 2017 as a hobby, I decided to take that as my full time job. Graduated from college in 2020 and started working in the same year.
+I’m a 24-year-old Brazilian full-stack developer, currently living in São Paulo. I’ve been coding since 2017 as a hobby and decided to pursue it as my full-time job. I graduated from college in 2020 and started working the same year.
 
-🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
+🔭 I'm a Full Stack Developer at Diagonal in São Paulo.
 
-🍃 Learning SvelteKit and trying to use Nvim as my main editor.
+🍃 Learning SvelteKit and e2e tests with Cypress. Also studying Go.
 
 ---
 
@@ -31,11 +31,10 @@ I'm a Brazilian 23yo full stack developer, currently living in São Paulo. Codin
 
 Below are listed my job experiences, feel free to ask me anything.
 
-
-**Full Stack Developer (Jr)** \
+**Full Stack Developer (Mid Level)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
-Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Bootstrap`, `PostgreSQL`.\
-Projects: Semafórico, DTTSA.
+Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Cypress`, `Bootstrap`, `PostgreSQL`.\
+Projects: Semafórico, TS Digital.
 <br/>
 
 **Full Stack Developer (Jr)** \
