@@ -4,7 +4,7 @@ I’m a 24-year-old Brazilian full-stack developer, currently living in São Pau
 
 🔭 I'm a Full Stack Developer at Diagonal in São Paulo.
 
-🍃 Learning SvelteKit and e2e tests with Cypress. Also studying Go.
+🍃 Learning SvelteKit and e2e tests with Cypress. Also studying TypeScript.
 
 ---
 
