@@ -2,9 +2,9 @@
 
 I’m a 24-year-old Brazilian full-stack developer, currently living in São Paulo. I’ve been coding since 2017 as a hobby and decided to pursue it as my full-time job. I graduated from college in 2020 and started working the same year.
 
-🔭 I'm a Full Stack Developer at Diagonal in São Paulo.
+🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
 
-🍃 Learning SvelteKit and e2e tests with Cypress. Also studying TypeScript.
+🍃 Learning SvelteKit and e2e tests with Cypress. Also studying Golang.
 
 ---
 
