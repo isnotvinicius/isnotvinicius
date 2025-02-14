@@ -33,20 +33,20 @@ Below are listed my job experiences, feel free to ask me anything.
 
 **Full Stack Developer (Mid Level)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
-Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Cypress`, `Bootstrap`, `PostgreSQL`.\
+Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Cypress`, `Robot Framework`, `PostgreSQL`.\
 Projects: Semafórico, TS Digital.
 <br/>
 
 **Full Stack Developer (Jr)** \
 [**Bom Valor S.A**](https://bomvalor.com.br/) • Full-time \
-Stack: `PHP`, `Laravel`, `Zend`, `JQuery`, `VueJS`, `NestJS`, `GraphQL`, `PostgreSQL`, `Firebase`, `ElasticSearch`, `Redis`, `Docker`.\
+Stack: `PHP`, `Laravel`, `PestPHP`, `Zend`, `JQuery`, `VueJS`, `NestJS`, `GraphQL`, `PostgreSQL`, `Firebase`, `ElasticSearch`, `Redis`, `Docker`.\
 Projects: [Mercado Bom Valor](https://mercado.bomvalor.com.br/), [Conta Comprova](https://contacomprova.bomvalor.com.br/)
 <br/>
 
 **Back-end Developer (Jr)** \
 [**NineWorphi**](https://nineworphi.rds.land/ninecontrol) • Full-time \
 Stack: `PHP`, `Laravel`, `PostgreSQL`. \
-Projects: [NineControl](https://nineworphi.rds.land/ninecontrol)
+Projects: NineControl
 <br/>
 <br/>
 
