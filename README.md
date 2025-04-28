@@ -31,7 +31,7 @@ I’m a 24-year-old Brazilian full-stack developer, currently living in São Pau
 
 Below are listed my job experiences, feel free to ask me anything.
 
-**Full Stack Developer (Mid Level)** \
+**Full Stack Developer (Jr)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
 Stack: `PHP`, `Laravel`, `JavaScript`, `SvelteKit`, `Cypress`, `Robot Framework`, `PostgreSQL`.\
 Projects: Semafórico, TS Digital.
