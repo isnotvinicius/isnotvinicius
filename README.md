@@ -4,7 +4,7 @@ I’m a 24-year-old Brazilian full-stack developer, currently living in São Pau
 
 🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
 
-🍃 Learning Golang.
+🍃 Learning a few things in PHP, also studying Golang.
 
 ---
 
