@@ -2,7 +2,7 @@
 
 I’m a 24-year-old Brazilian full-stack developer, currently living in São Paulo. I’ve been coding since 2017 as a hobby and decided to pursue it as my full-time job. I graduated from college in 2020 and started working the same year.
 
-🔭 I'm a Full Stack Developer @Diagonal in São Paulo.
+🔭 I'm a Full Stack Developer @Fênix Tecnologias Educacionais in São Paulo.
 
 🍃 Learning a few things in PHP, also studying Golang.
 
@@ -30,6 +30,12 @@ I’m a 24-year-old Brazilian full-stack developer, currently living in São Pau
 ### Working Experience
 
 Below are listed my job experiences, feel free to ask me anything.
+
+**Full Stack Developer (Mid Level)** \
+[**Fênix Tecnologias Educacionais**](https://fenixeditorial.com.br/) • Full-time \
+Stack: `PHP`, `CodeIgniter`, `Quasar`, `VueJs`, `JavaScript`, `TypeScript`,`MySQL`, `PostgreSQL`.\
+Projects: TBD.
+<br/>
 
 **Full Stack Developer (Jr)** \
 [**Diagonal**](https://diagonal.social/) • Full-time \
