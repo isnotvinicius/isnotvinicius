@@ -57,8 +57,3 @@ Projects: NineControl
 <br/>
 
 Please, find me on [LinkedIn](https://www.linkedin.com/in/isnotvinicius/) for a more detailed description of my experience and education.
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isnotvinicius&show_icons=true&theme=tokyonight)
-[![isnotvinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=isnotvinicius&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
