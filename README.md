@@ -34,7 +34,7 @@ Below are listed my job experiences, feel free to ask me anything.
 **Full Stack Developer (Mid Level)** \
 [**Fênix Tecnologias Educacionais**](https://fenixeditorial.com.br/) • Full-time \
 Stack: `PHP`, `CodeIgniter`, `Quasar`, `VueJs`, `JavaScript`, `TypeScript`,`MySQL`, `PostgreSQL`.\
-Projects: TBD.
+Projects: EducarTech.
 <br/>
 
 **Full Stack Developer (Jr)** \
